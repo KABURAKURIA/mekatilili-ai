@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396095312956",
+    "project_id": "dreambrush-9ff60",
+    "storage_bucket": "dreambrush-9ff60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396095312956:android:6244afc53bee956fe6df39",
+        "android_client_info": {
+          "package_name": "io.flutterflow.dreambrush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDphsK8gywCRvnZPUDl5avlC5msVHAKqQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396095312956:android:6d8b24fda88bf0bce6df39",
+        "android_client_info": {
+          "package_name": "io.flutterflow.dreambrushtemplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDphsK8gywCRvnZPUDl5avlC5msVHAKqQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
